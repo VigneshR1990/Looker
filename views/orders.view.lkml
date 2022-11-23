@@ -1,3 +1,4 @@
+include: "../data_tests.lkml"
 view: orders {
   sql_table_name: ecommerce.orders ;;
   drill_fields: [order_id]
