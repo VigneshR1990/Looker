@@ -1,0 +1,4 @@
+- name: Looker Marketplace Spectacles Tests
+  # You may pin to the exact commit or the version.
+  # uses: 4mile/looker-marketplace-blocks-test@6b6acd376ecfdf6f1bcfa66ad9e5c85269b248f6
+  uses: 4mile/looker-marketplace-blocks-test@v2.1.2
